@@ -1,0 +1,4 @@
+---
+alias: Turk, Turkish
+---
+#civ 

@@ -1,0 +1,33 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Ages",
+      "tag": "#age",
+      "pattern": ""
+    },
+    {
+      "folder": "Buildings",
+      "tag": "#building",
+      "pattern": ""
+    },
+    {
+      "folder": "Civs",
+      "tag": "#civ",
+      "pattern": ""
+    },
+    {
+      "folder": "Units",
+      "tag": "#unit",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": ""
+    }
+  ]
+}

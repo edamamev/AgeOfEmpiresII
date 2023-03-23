@@ -1,0 +1,4 @@
+---
+alias: Tatar
+---
+#civ 

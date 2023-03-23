@@ -1,0 +1,4 @@
+---
+alias: Teutonic, Teuton
+---
+#civ 

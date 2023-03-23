@@ -1,0 +1,4 @@
+---
+alias: Magyar
+---
+#civ 

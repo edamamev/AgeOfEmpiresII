@@ -1,0 +1,4 @@
+---
+alias: Celt, Celtic
+---
+#civ 

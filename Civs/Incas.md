@@ -1,0 +1,4 @@
+---
+alias: Incaa, Incan
+---
+#civ 

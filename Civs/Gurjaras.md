@@ -1,0 +1,4 @@
+---
+alias: Gurjara
+---
+#civ 
