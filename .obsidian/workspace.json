@@ -4,69 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "106263df68810e6b",
-        "type": "split",
+        "id": "0abc780f96585e6c",
+        "type": "tabs",
         "children": [
           {
-            "id": "0abc780f96585e6c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "94dcfa80673353e1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Civs/Teutons.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f20b1dab73061d98",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Teutons-vs-Poles.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1c17d0ddecc38440",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
+            "id": "6cf41d7f3c6317ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "civ classification/Gunpowder civs.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1,
-            "stacked": true
+            }
           },
           {
-            "id": "6010fc8915736593",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f3ca7e7fb3f23a10",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Civs/Aztecs.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "01b48c0bc8dd3e27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "upgrades/Chemistry.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -132,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teutons-vs-Poles.md",
+                "file": "civ classification/Gunpowder civs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teutons-vs-Poles.md",
+                "file": "civ classification/Gunpowder civs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teutons-vs-Poles.md"
+                "file": "civ classification/Gunpowder civs.md"
               }
             }
           }
@@ -194,12 +160,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f20b1dab73061d98",
+  "active": "6cf41d7f3c6317ad",
   "lastOpenFiles": [
+    "civ classification/Elephant civs.md",
+    "civ classification/Gunpowder civs.md",
+    "civ classification/Seige civs.md",
+    "civ classification/Infatry civs.md",
+    "civ classification/Archer civs.md",
+    "Gunpowder-Unit.md",
+    "upgrades/Chemistry.md",
+    "Units/Hand cannon.md",
     "Civs/Teutons.md",
+    "civ classification/Cavalry archer civs.md",
+    "Units/Bombard cannons.md",
+    "Teutons-vs-Poles.md",
+    "upgrades",
+    "civ classification/Cavalry civs.md",
+    "civ classification/Camel civs.md",
+    "civ classification",
     "Civs/Aztecs.md",
     "Ages/Feudal-Age.md",
-    "Teutons-vs-Poles.md",
     "Units/Militia.md",
     "Civs/Hindustanis.md",
     "Civs/Magyars.md",
@@ -210,18 +190,6 @@
     "Civs/Lithuanians.md",
     "Civs/Khmer.md",
     "Civs/Italians.md",
-    "Civs/Huns.md",
-    "Civs/Dravidians.md",
-    "Civs/Cumans.md",
-    "Civs/Britons.md",
-    "Civs/Bulgarians.md",
-    "Civs/Byzantines.md",
-    "Civs/Ethiopians.md",
-    "Civs/Franks.md",
-    "Civs/Goths.md",
-    "Civs/Gurjaras.md",
-    "Civs/Incas.md",
-    "Civs/Japanese.md",
     "Units",
     "Civs",
     "Buildings",
