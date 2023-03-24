@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0abc780f96585e6c",
+        "id": "3f8793aad51005c9",
         "type": "tabs",
         "children": [
           {
-            "id": "1c17d0ddecc38440",
+            "id": "4bc5b856c6cbc49e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ages/Imperial-Age.md",
+                "file": "civ classification/Gunpowder civs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a1f0bab5907b21f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "civ classification/Gunpowder civs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ages/Imperial-Age.md",
+                "file": "civ classification/Gunpowder civs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ages/Imperial-Age.md",
+                "file": "civ classification/Gunpowder civs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ages/Imperial-Age.md"
+                "file": "civ classification/Gunpowder civs.md"
               }
             }
           },
@@ -155,37 +168,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ec868f7188d5acc2",
+  "active": "4a1f0bab5907b21f",
   "lastOpenFiles": [
+    "upgrades/Chemistry.md",
+    "civ classification/Gunpowder civs.md",
+    "upgrades",
+    "civ classification/Cavalry archer civs.md",
+    "Ages/Imperial-Age.md",
+    "Units/Bombard cannons.md",
+    "Untitled.md",
+    "civ bonuses",
+    "Units/Hand cannon.md",
+    "Civs/Aztecs.md",
+    "civ classification/Archer civs.md",
+    "civ classification/Camel civs.md",
+    "To-Do.md",
+    "civ classification/Infatry civs.md",
+    "civ classification/Cavalry civs.md",
+    "civ classification/overview.md",
+    "civ classification/Seige civs.md",
+    "civ classification/Elephant civs.md",
+    "civ classification",
+    "README.md",
+    "Ages/Castle-Age.md",
     "Ages/Feudal-Age.md",
     "Ages/Dark-Age.md",
-    "Ages/Castle-Age.md",
     "Civs/Bulgarians.md",
+    "Civs/Britons.md",
     "Civs/Bengalis.md",
-    "Civs/Aztecs.md",
-    "Ages/Imperial-Age.md",
     "Units/Militia.md",
-    "To-Do.md",
-    "README.md",
     "Buildings/Archery-Range.md",
     "Units",
     "Civs",
     "Buildings",
     "Ages",
-    "Buildings/Palisade-Wall.md",
-    "Buildings/Palisade-Gate.md",
-    "Buildings/Stone-Wall.md",
-    "Buildings/Gate.md",
-    "Buildings/Fortified-Wall.md",
-    "Buildings/Fortified-Gate.md",
-    "Buildings/Outpost.md",
-    "Buildings/Watch-Tower.md",
-    "Buildings/Guard-Tower.md",
-    "Buildings/Keep.md",
-    "Buildings/Castle.md",
-    "Buildings/Harbor.md",
-    "Buildings/Donjon.md",
-    "Buildings/House.md",
-    "Buildings/Wonder.md"
+    "Buildings/Palisade-Wall.md"
   ]
 }
